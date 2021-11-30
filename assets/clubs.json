@@ -1,0 +1,7881 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "kata": "يَسْتَيْقِظُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 2,
+      "kata": "يَعْمَلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 3,
+      "kata": "يَتَعَلَّمُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 4,
+      "kata": "يَحْتَجُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 5,
+      "kata": "يَتَكَلَّمُ ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 6,
+      "kata": "يَمْزَحُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 7,
+      "kata": "يَقُصُّ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 8,
+      "kata": "يُجَادِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 9,
+      "kata": "يَقُوْمُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 10,
+      "kata": "يَتَنَاظَرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 11,
+      "kata": "يَكْذِبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 12,
+      "kata": "يَسْبَحُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 13,
+      "kata": "يَعْبُدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 14,
+      "kata": "يُنْفِقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 15,
+      "kata": "يَسِيْرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 16,
+      "kata": "يَعِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 17,
+      "kata": "يُجَاهِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 18,
+      "kata": "يَخْطُبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 19,
+      "kata": "يَجْتَمِعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 20,
+      "kata": "يَنْقُصُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 21,
+      "kata": "يَلْعَبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 22,
+      "kata": "يُقِيْمُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 23,
+      "kata": "يَنْتَقِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 24,
+      "kata": "يَفْتَرِقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 25,
+      "kata": "يَعْتَمِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 26,
+      "kata": "يَتَّحِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 27,
+      "kata": "يَتَسَوَّكُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 28,
+      "kata": "يَسْجُدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 29,
+      "kata": "يَزْدَادُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 30,
+      "kata": "يَسْأَلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 31,
+      "kata": "يَصْرُخُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 32,
+      "kata": "يَصْرُخُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 33,
+      "kata": "يَعْتَمِرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 34,
+      "kata": "يُحَاوِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 35,
+      "kata": "يَبُوْلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 36,
+      "kata": "يَجِيْءُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 37,
+      "kata": "يَسْكُتُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 38,
+      "kata": "يَجْلِسُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 39,
+      "kata": "يَنْتَهِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 40,
+      "kata": "يَحْضُرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 41,
+      "kata": "يَضِيْعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 42,
+      "kata": "يَتَذَكَّرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 43,
+      "kata": "يُرِيْدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 44,
+      "kata": "يَصْدُقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 45,
+      "kata": "يَفْتَقِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 46,
+      "kata": "يَدُوْرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 47,
+      "kata": "يَخْرُجُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 48,
+      "kata": "يَنْجَحُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 49,
+      "kata": "يَنْسَى",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "",
+      "tandairob": ""
+    },{
+      "id": 50,
+      "kata": "يَأْكُلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 51,
+      "kata": "يَسْتَطِيْعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 52,
+      "kata": "يَسْتَحِمُّ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 53,
+      "kata": "يَدْخُلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 54,
+      "kata": "يَنْهَى",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 55,
+      "kata": "يَضَعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 56,
+      "kata": "يَرَى",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 57,
+      "kata": "يَجْرَحُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 58,
+      "kata": "يَفْهَمُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 59,
+      "kata": "يَطْبَخُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 60,
+      "kata": "يُدْخِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 61,
+      "kata": "يَقْرَأُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 62,
+      "kata": "يَقْسِمُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 63,
+      "kata": "يَبْنِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 64,
+      "kata": "يُوْقِظُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 65,
+      "kata": "يُسَاعِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 66,
+      "kata": "يَحْمِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 67,
+      "kata": "يَدْفَعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 68,
+      "kata": "يُطْلِقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 69,
+      "kata": "يَشْتَرِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 70,
+      "kata": "يَكْرَهُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 71,
+      "kata": "يُعْطِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 72,
+      "kata": "يُنَظِّفُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 73,
+      "kata": "يَرْمِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 74,
+      "kata": "يَصْنَعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 75,
+      "kata": "يَفْتَحُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 76,
+      "kata": "َحْتَاجُ إلى",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 77,
+      "kata": "يُحَارِبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 78,
+      "kata": "يَفْحَصُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 79,
+      "kata": "يَأْمُرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 80,
+      "kata": "يَخْتَارُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 81,
+      "kata": "يَخْطِبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 82,
+      "kata": "يَطْلُبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 83,
+      "kata": "يَسْأَلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 84,
+      "kata": "يَقْطَعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 85,
+      "kata": "يَضْرِبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 86,
+      "kata": "يَبْدَأُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 87,
+      "kata": "يَزِيْدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 88,
+      "kata": "يَبْكِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 89,
+      "kata": "يَنْتَظِرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 90,
+      "kata": "يَنْصَحُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 91,
+      "kata": "يَبْلُغُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 92,
+      "kata": "يَبْحَثُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 93,
+      "kata": "يَذُوْقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 94,
+      "kata": "يُحِبُّ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 95,
+      "kata": "يَخْلُقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 96,
+      "kata": "يُقَبِّلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 97,
+      "kata": "يُجَرِّبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 98,
+      "kata": "يَغْسِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 99,
+      "kata": "يَحْلِقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 100,
+      "kata": "يَقْتَرِبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 101,
+      "kata": "يَسْمَعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 102,
+      "kata": "يُرَبِّي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 103,
+      "kata": "يَجِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 104,
+      "kata": "يُدَرِّسُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 105,
+      "kata": "يَأْخُذُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 106,
+      "kata": "يَرْفَعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 107,
+      "kata": "يَسْتَهْزِئُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 108,
+      "kata": "يُخْرِجُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 109,
+      "kata": "يَفْعَلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 110,
+      "kata": "يَعْرِفُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 111,
+      "kata": "يَرْسُمُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 112,
+      "kata": "يَقْلِي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 113,
+      "kata": "يُقَابِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 114,
+      "kata": "يُسَلِّي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 115,
+      "kata": "يَحْسُبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 116,
+      "kata": "يَتَّبِعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 117,
+      "kata": "يُنْكِرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 118,
+      "kata": "يَأْذَنُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 119,
+      "kata": "يُعَالِجُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 120,
+      "kata": "يُغَيِّرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 121,
+      "kata": "يُعِيْدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 122,
+      "kata": "يَنْقُصُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 123,
+      "kata": "يَتَزَوَّجُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 124,
+      "kata": "يُصِيْبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 125,
+      "kata": "يَتْرُكُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 126,
+      "kata": "يُقَلِّدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 127,
+      "kata": "يَبْتَعِدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 128,
+      "kata": "يُجِيْبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 129,
+      "kata": "يَبِيْعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 130,
+      "kata": "يَنْصُرُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 131,
+      "kata": "يُطِيْعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 132,
+      "kata": "يَكْتُبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 133,
+      "kata": "يُغْلِقُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 134,
+      "kata": "يُشْعِلُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 135,
+      "kata": "يَكْنُسُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 136,
+      "kata": "يَشْرَبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 137,
+      "kata": "يَصْعَدُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 138,
+      "kata": "يَذْهَبُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 139,
+      "kata": "يَرْجِعُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 140,
+      "kata": "يَمْرَضُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "I’rob  ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 141,
+      "kata": "يُصَلِّي",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 142,
+      "kata": "يَنَامُ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 143,
+      "kata": "صَدْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 144,
+      "kata": "رَأْسٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 145,
+      "kata": "بُطْنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 146,
+      "kata": "كَتِفُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 147,
+      "kata": "شَعْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 148,
+      "kata": "ظَهْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 149,
+      "kata": "ذَرَاعٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 150,
+      "kata": "جَبْهَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 151,
+      "kata": "فَخِذَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 152,
+      "kata": "مِرْفَقَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+ 
+    {
+      "id": 153,
+      "kata": "صُدْغٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 154,
+      "kata": "رُكْبَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 155,
+      "kata": "رُكْبَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 156,
+      "kata": "كَفٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 157,
+      "kata": "عَيْنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 158,
+      "kata": "كَعْبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 159,
+      "kata": "ظُفْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 160,
+      "kata": "اَنْفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 161,
+      "kata": "رِجْلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 162,
+      "kata": "إِبْهَامٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 163,
+      "kata": "أُذُنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 164,
+      "kata": "قَدَمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 165,
+      "kata": "سَبَّابَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 166,
+      "kata": "خَدٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 167,
+      "kata": "وُسْطَى",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " -",
+      "tandairob": "-"
+    },
+    {
+      "id": 168,
+      "kata": "فَمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 169,
+      "kata": "وَجْهٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 170,
+      "kata": "",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 171,
+      "kata": "بِنْصِرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 172,
+      "kata": "عُنُقٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 173,
+      "kata": "خِنْصِرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 174,
+      "kata": "لِسَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 175,
+      "kata": "حُلْقُوْمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 176,
+      "kata": "سِنٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 177,
+      "kata": "ذقن",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 178,
+      "kata": "لِحْيَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 179,
+      "kata": "عَقِبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 180,
+      "kata": "الدَّمُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 181,
+      "kata": "الۡكُلِي",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 182,
+      "kata": "الۡقَلۡبُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 183,
+      "kata": "الۡمَعِدَۃُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 184,
+      "kata": "الۡعِظَمُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 185,
+      "kata": "الۡاَمۡعَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 186,
+      "kata": "الدِّمَاغُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 187,
+      "kata": "الۡكَاحِلُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 188,
+      "kata": "الۡاِبۡتُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 189,
+      "kata": "الۡجِلۡد",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 190,
+      "kata": "الۡوَرَكُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 191,
+      "kata": "الۡمُعَخَّرَۃ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 192,
+      "kata": "السُّرَّۃُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 193,
+      "kata": "وَسَطٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 194,
+      "kata": "عَوْرَة",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 195,
+      "kata": "ذَكَرُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 196,
+      "kata": "بَيْت",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 197,
+      "kata": "جِدَار",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 198,
+      "kata": "سَقْف",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 199,
+      "kata": "بَلَاطَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 200,
+      "kata": "بَاب",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 201,
+      "kata": "نَافِذَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 202,
+      "kata": "شُبَّاكٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 203,
+      "kata": "غُرْفَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 204,
+      "kata": "مَطْبَخٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 205,
+      "kata": "غُرْفَةُ نَوْمٍ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 206,
+      "kata": "حَمَّام",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 207,
+      "kata": "فِنَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 208,
+      "kata": "سَاحَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 209,
+      "kata": "سُوْرُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 210,
+      "kata": "بُسْتَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 211,
+      "kata": "أَثَاثٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 212,
+      "kata": "أَدْوَارٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 213,
+      "kata": "كَهْرَبَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 214,
+      "kata": "عَمُوْدٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 215,
+      "kata": "سُلَّمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 216,
+      "kata": "عُنْوَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 217,
+      "kata": "مُجَفَّفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 218,
+      "kata": "مُكَيْفُ اْلهَوَاءِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 219,
+      "kata": "نَافِذَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 220,
+      "kata": "اْلمَرْبَى اْلمَائِي",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " -",
+      "tandairob": "-"
+    },
+    {
+      "id": 221,
+      "kata": "غُرْفَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 222,
+      "kata": "غُرْفَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 223,
+      "kata": "مِفْتَاحٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 224,
+      "kata": "نَفَّاضَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 225,
+      "kata": "قُطْنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 226,
+      "kata": "بِسَاطٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 227,
+      "kata": "وِسَادَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 228,
+      "kata": "شَرِيْطٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 229,
+      "kata": "سُكَرْدَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 230,
+      "kata": "فِرَاشٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 231,
+      "kata": "حَدِيْقَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 232,
+      "kata": "نَامُوْسَيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 233,
+      "kata": "مِرْوَحَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 234,
+      "kata": "صُوْرَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 235,
+      "kata": "صُنْدُوْقُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 236,
+      "kata": "زُقَاقٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 237,
+      "kata": "دُرْجٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 238,
+      "kata": "مِشْجَبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 239,
+      "kata": "مِصْبَاحٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 240,
+      "kata": "قُفْلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 241,
+      "kata": "قَانُوْسٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 242,
+      "kata": "قِرْمِدٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 243,
+      "kata": "سِتَارٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 244,
+      "kata": "خِزَانَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 245,
+      "kata": "سَاحَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 246,
+      "kata": "دَوْلاَبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 247,
+      "kata": "سَاعَةٌ مُنَبِّهَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 248,
+      "kata": "غِطَاءُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 249,
+      "kata": "وِسَادَةٌ طَوِيْلَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 250,
+      "kata": "سَطْحٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 251,
+      "kata": "قِمَعٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 252,
+      "kata": "مُكَبِّرُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 253,
+      "kata": "لِحَافٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 254,
+      "kata": "كَوَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 255,
+      "kata": "رِيْكَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 256,
+      "kata": "مَكْتَبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 257,
+      "kata": "مِكْوَاةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 258,
+      "kata": "طَاوِلَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 259,
+      "kata": "بِئْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 260,
+      "kata": "سُوْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 261,
+      "kata": "سُلَّمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 262,
+      "kata": "قَنَاةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 263,
+      "kata": "مُسَجَّلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 264,
+      "kata": "مِقْبَضُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 265,
+      "kata": "هَاتِفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 266,
+      "kata": "بَوَّابَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 267,
+      "kata": "كُوْخٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 268,
+      "kata": "حَصِيْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 269,
+      "kata": "مِذْيَاعٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 270,
+      "kata": "طَابِقٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 271,
+      "kata": "رَفٌّ جـ رُفُوْفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 272,
+      "kata": "مَزْبَلَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 273,
+      "kata": "غُرْفَةُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 274,
+      "kata": "زُبَالَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 275,
+      "kata": "تَجْرِيْفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 276,
+      "kata": "كُرْسِيٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 277,
+      "kata": "مِكْنَسَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 278,
+      "kata": "أَرِيْكَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 279,
+      "kata": "مِنْضَدَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 280,
+      "kata": "كرسي",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 281,
+      "kata": "زَهْرِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 282,
+      "kata": "سَجَّادَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 283,
+      "kata": "شَرْشَفُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 284,
+      "kata": "اَلۡوِشَاحُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 285,
+      "kata": "اَلۡحَرِيۡرُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 286,
+      "kata": "حِذَاءُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 287,
+      "kata": "جَوۡرَبُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 288,
+      "kata": "قُبۡعَۃُ مِنَ الۡقَشِّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 289,
+      "kata": "اَلۡبَدۡلَۃُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 290,
+      "kata": "السُّتۡرَۃ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {  
+      "id": 291,
+      "kata": "الصَّدۡرِيَّۃ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 292,
+      "kata": "ثَوۡبُ الزَّفَافِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 293,
+      "kata": "َمَلَا بِسُ الشِّتَاءِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 294,
+      "kata": "قَلَنْسُوَةٌ جـ قَلَانِسُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 295,
+      "kata": "قَمِيْصٌ جـ قُمْصَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 296,
+      "kata": "ثَوْبٌ جـ أَثْوَابٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 297,
+      "kata": "فَانِلَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 298,
+      "kata": "فَانِلَّةٌ دَاخِلِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 299,
+      "kata": "مَلَابِسُ دَاخِلِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+   {
+      "id": 300,
+      "kata": "سِرْوَالٌ جـ سَرَاوِيْلُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 301,
+      "kata": "  تُبَّانٌ جـ تَبَابِيْنُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 302,
+      "kata": " إِزَارٌ جـ آزِرَةٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 303,
+      "kata": " قُفَّازٌ جـ قُفَّازَاتٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 304,
+      "kata": " قُبَّعَةٌ جـ قُبَّعَاتٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 305,
+      "kata": " مِنْظَارٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 306,
+      "kata": " زِرٌّ جـ أَزْرَارٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 307,
+      "kata": " جَيْبٌ جـ جُيُوْبٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 308,
+      "kata": "  كُمٌّ جـ أَكْمَامٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 309,
+      "kata": "طَوْقٌ جـ أَطْوَاقٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 310,
+      "kata": "حِفَاضٌ جـ حِفَاضَا  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 311,
+      "kata": " نَعْلٌ جـ نِعَالٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 312,
+      "kata": "  قُطْنٌ جـ أَقْطَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 313,
+      "kata": " صُوْفٌ جـ أَصْوَافٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 314,
+      "kata": " قُمَاشٌ جـ أَقْمِشَةٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 315,
+      "kata": " ثَوْبٌ رَسْمِيٌّ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " -",
+      "tandairob": "-"
+    },{
+      "id": 316,
+      "kata": " الـمَلَابِسُ الـجَاهِزِةُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 317,
+      "kata": "صُنْدُوْقُ المَلَابِسِ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 318,
+      "kata": " فُرْشَةُ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 319,
+      "kata": " خِزَانَةُ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 320,
+      "kata": "مَلْبَسٌ جـ مَلَابِسُ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 321,
+      "kata": " قَمِيْصٌ جـ قُمْصَانٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 322,
+      "kata": "ثَوْبٌ جـ أَثْوَابٌ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 323,
+      "kata": "فَانِلَّةٌ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 324,
+      "kata": " فَانِلَّةٌ دَاخِلِيَّةٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 325,
+      "kata": "  سِرْوَالٌ جـ سَرَاوِيْلُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 326,
+      "kata": " تُبَّانٌ جـ تَبَابِيْنُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 327,
+      "kata": "إِزَارٌ جـ آزِرَةٌ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 328,
+      "kata": " قُفَّازٌ جـ قُفَّازَاتٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 329,
+      "kata": " قُبَّعَةٌ جـ قُبَّعَاتٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 330,
+      "kata": " سُتْرَةٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 331,
+      "kata": " خُوْذَةٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 332,
+      "kata": " نَعْلٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 333,
+      "kata": " القَمِيْسُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 334,
+      "kata": "  الجَزْمَةُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 335,
+      "kata": " التَّاجُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 336,
+      "kata": " مُشْطٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 337,
+      "kata": " شَرِيْطٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 338,
+      "kata": " فَانِلَّةٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 339,
+      "kata": " صُمَادٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 340,
+      "kata": " اَلۡبُلُوۡزَۃُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 341,
+      "kata": " اَلۡبِيۡكِيۡنِيۡ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " -",
+      "tandairob": "-"
+    },
+    {
+      "id": 342,
+      "kata": " اَلۡبَشۡكِيۡرُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 343,
+      "kata": " اَلۡعُقۡدَۃُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 344,
+      "kata": " اَلۡبُرُوۡشُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 345,
+      "kata": " اَلۡفُسۡتَانُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 346,
+      "kata": "  حِزَامٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 347,
+      "kata": "  جِلۡبَابٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 348,
+      "kata": " مَطْبَخٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 349,
+      "kata": " رَمَادٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 350,
+      "kata": "  مَشۡوَاهٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 351,
+      "kata": " مِعۡصَرَۃٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 352,
+      "kata": " نَارٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 353,
+      "kata": " فَحۡمٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 354,
+      "kata": "  مُنۡخَلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 355,
+      "kata": " حَمۡرَۃٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 356,
+      "kata": "عُوۡدُ الۡكِبۡرِيۡتُ  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 357,
+      "kata": " مُخۡلَاطٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 358,
+      "kata": " قَارُوۡرَۃٌ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 359,
+      "kata": "فِنۡجَانٌ",  
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 360,
+      "kata": "قَالِب",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 361,
+      "kata": "ثَلۡجٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 362,
+      "kata": "مُجَمِّدَۃ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 363,
+      "kata": "شَوْكَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 364,
+      "kata": "كُوْبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 365,
+      "kata": "اِنَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 366,
+      "kata": "خِرۡقَۃٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 367,
+      "kata": "حَطَبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 368,
+      "kata": "سَلَّۃٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 369,
+      "kata": "وَابِرُ الۡغَارِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 370,
+      "kata": "مَوْقِدٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 371,
+      "kata": "عُوۡدُ الۡكِبۡرِيۡتُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 372,
+      "kata": "مِقۡلَاۃ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 373,
+      "kata": "ثَلَّاجَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 374,
+      "kata": "خِزَانَۃُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 375,
+      "kata": "خِوَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 376,
+      "kata": "فُرْنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 377,
+      "kata": "قِدْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 378,
+      "kata": "سِكِّيۡنٌ كَبِيۡرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 379,
+      "kata": "مِبْشَرَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 380,
+      "kata": "قَشَّارَۃ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 381,
+      "kata": "قَشَّارَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 382,
+      "kata": "صَحْنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 383,
+      "kata": "سِكِّيْنٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 384,
+      "kata": "مِصْفَاةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 385,
+      "kata": "مِلۡعَقَۃُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 386,
+      "kata": "مِلْعَقَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 387,
+      "kata": "مِلۡعَقَۃُ الرُّزِّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 388,
+      "kata": "مِنۡدِيۡلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 389,
+      "kata": "مِلْعَقَةُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 390,
+      "kata": "مِلۡوَقٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 391,
+      "kata": "ءُوۡدٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 392,
+      "kata": "مِقۡلَبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 393,
+      "kata": "  ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 394,
+      "kata": "قَاعِدَةُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 395,
+      "kata": "كَظِيۡمَۃٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 396,
+      "kata": "مَزْبَلَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 397,
+      "kata": "مِطۡحَنَۃٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 398,
+      "kata": "بَالُوعَۃٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 399,
+      "kata": "صَبَاحٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 400,
+      "kata": "نَهَار",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 401,
+      "kata": "مَسَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 402,
+      "kata": "لَيْلَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 403,
+      "kata": "لَيْلًا وَنَهَارًا",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 404,
+      "kata": "قَدِيْمًا",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 405,
+      "kata": "ضُحَى",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 406,
+      "kata": "ذَاتَ يَوْمٍ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "kashro"
+    },
+    {
+      "id": 407,
+      "kata": "حَدِيْثًا",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 408,
+      "kata": "عَتَمَةً",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 409,
+      "kata": "مُؤَخَّرًا",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 410,
+      "kata": "بُكْرَةً",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 411,
+      "kata": "بِاْلغَدِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "kashro"
+    },
+    {
+      "id": 412,
+      "kata": "مُؤَقَّةً",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 413,
+      "kata": "الرَّاهِن",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 414,
+      "kata": "فِيْ هَذَا اْلوَقْتِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "kashro"
+    },
+    {
+      "id": 415,
+      "kata": "فِيْ وَقْتٍ أَخَرٍ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "kashro"
+    },
+    {
+      "id": 416,
+      "kata": "فِيْ اْلمُسْتَقْبَلِ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 417,
+      "kata": "هَذَا اْليَوْمَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 418,
+      "kata": "هَذِهِ اللَّيْلَةَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 419,
+      "kata": "هَذَا اْلعَصْرَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "fatha"
+    },{
+      "id": 420,
+      "kata": "سَوْدَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 421,
+      "kata": "بَيْضَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 422,
+      "kata": "حَمْرَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 423,
+      "kata": "أزَرْقَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 424,
+      "kata": "أخَضْرَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 425,
+      "kata": "أصَفْرَاءُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 426,
+      "kata": "بُرْتُقَالِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 427,
+      "kata": "بَنَفْسَجِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 428,
+      "kata": "رَمَادِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 429,
+      "kata": "بُنِّيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 430,
+      "kata": "وَرْدِيَّةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 431,
+      "kata": "فَلَكِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 432,
+      "kata": "لُغَوِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 433,
+      "kata": "جَرَّاحُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 434,
+      "kata": "فُقَهَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 435,
+      "kata": "فَلَاسِفَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 436,
+      "kata": "قَانُوْنِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 437,
+      "kata": "كِيْمِيَائِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 438,
+      "kata": "رِيَاضِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 439,
+      "kata": "مِيْكَانِيْكِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 440,
+      "kata": "نُحَاةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 441,
+      "kata": "مُمَثِّلُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 442,
+      "kata": "مُمَثِّلَاتٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 443,
+      "kata": "مُحَاسِبوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 444,
+      "kata": "صَيَادِلَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 445,
+      "kata": "مُلْحَقُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 446,
+      "kata": "رِيَاضِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 447,
+      "kata": "حَوَاضِنُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 448,
+      "kata": "مُهَرِّجُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 449,
+      "kata": "قَوَابِلُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 450,
+      "kata": "مُحَافِظُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 451,
+      "kata": "مُصَمِّمُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 452,
+      "kata": "مُدَرَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 453,
+      "kata": "أَطِبَّاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 454,
+      "kata": "طِبَّاءُ أَسْنَانٍ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 455,
+      "kata": "سُفَرَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "kashro"
+    },{
+      "id": 456,
+      "kata": "مُصَوِّرُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 457,
+      "kata": "أُمَرَاءُ مَنَاطِقَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 458,
+      "kata": "مُدَرِّسُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 459,
+      "kata": "قُضَاةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 460,
+      "kata": "جَزَّارُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 461,
+      "kata": "صَحَفِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 462,
+      "kata": "مُتَحَدِّثُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 463,
+      "kata": "عُمَّالٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 464,
+      "kata": "عُمَدٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 465,
+      "kata": "طَبَّاخٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 466,
+      "kata": "مُقَاوِلُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 467,
+      "kata": "حَمَّالُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 468,
+      "kata": "بَنَّاؤُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 469,
+      "kata": "جَاسُوْسٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 470,
+      "kata": "وَزِيْرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 471,
+      "kata": "سَفَّانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 472,
+      "kata": "تَاجِرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 473,
+      "kata": "مُوَظَّفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 474,
+      "kata": "طَالِبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 475,
+      "kata": "رَجُلُ ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 476,
+      "kata": "مُدَرِّبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 477,
+      "kata": "بَحَّارٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 478,
+      "kata": "مُهَرِّجٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 479,
+      "kata": "خَادِمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 480,
+      "kata": "رَسَّامٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 481,
+      "kata": "نَحَّاتٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 482,
+      "kata": "دَلِيْلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 483,
+      "kata": "سَفَّانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 484,
+      "kata": "لِصٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 485,
+      "kata": "قَصَّاصٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 486,
+      "kata": "حَطَّابٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 487,
+      "kata": "نَادِلٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 488,
+      "kata": "تُرْجُمَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 489,
+      "kata": "مُحَامٍ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 490,
+      "kata": "مُدَرِّسٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 491,
+      "kata": "بَطَّالٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 492,
+      "kata": "مُؤَلِّفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 493,
+      "kata": "مُشْرِفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 494,
+      "kata": "حَارِسٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 495,
+      "kata": "مُجْرِمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 496,
+      "kata": "خَيَّاطٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 497,
+      "kata": "مَلَّاحٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 498,
+      "kata": "حَطَّابٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 499,
+      "kata": "كَاتِبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 500,
+      "kata": "شَاعِرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 501,
+      "kata": "مُغَنٍّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 502,
+      "kata": "مُذِيْعٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 503,
+      "kata": "سَاحِرٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 504,
+      "kata": "مُشَعْوِذٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 505,
+      "kata": "مُنَجِّمٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 506,
+      "kata": "مُمَرِّضٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 507,
+      "kata": "قُرْصَانٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 508,
+      "kata": "فَلَّاحٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 509,
+      "kata": "ضَابِطٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 510,
+      "kata": "طَيَّارٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 511,
+      "kata": "شُرْطِيٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 512,
+      "kata": "سِيَاسِيٌّ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 513,
+      "kata": "مُضِيْفٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 514,
+      "kata": "مُضِيْفَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 515,
+      "kata": "دَلَّالٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 516,
+      "kata": "مُبَرْمِجٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 517,
+      "kata": "أُسْتَاذٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 518,
+      "kata": "مَلِكٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 519,
+      "kata": "أَدِيْبٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 520,
+      "kata": "مُؤَرِّخٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 521,
+      "kata": "سِكْرِتِيْر",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 522,
+      "kata": "تَلَامِيْذُ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 523,
+      "kata": "تِلْمِيْذَاتٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 524,
+      "kata": "قَنَّاصُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 525,
+      "kata": "سَاقَةٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 526,
+      "kata": "سُجَنَاءٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 527,
+      "kata": "جُنْدٌ",
+      "bentuk": "Isim",
+      "katagori": "Isim mufrod",
+      "irob": " ro'fa",
+      "tandairob": "Dhoma"
+    },{
+      "id": 528,
+      "kata": "نَسَّاجُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 529,
+      "kata": "حَدَّادُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 530,
+      "kata": "دَهَّانُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 531,
+      "kata": "حَلَّاقُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 532,
+      "kata": "صَائِغُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 533,
+      "kata": "حَفَّارُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 534,
+      "kata": "سَاعَاتِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 535,
+      "kata": "زَجَّاجُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 536,
+      "kata": "سَمْكَرِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 537,
+      "kata": "نَجَّارُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 538,
+      "kata": "بُسْتَانِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 539,
+      "kata": "بَقَّالُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 540,
+      "kata": "وَرَّاقُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 541,
+      "kata": "سَبَّاكُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 542,
+      "kata": "دَلَّالُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 543,
+      "kata": "مُدَلِّكُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 544,
+      "kata": "خَبَّازُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 545,
+      "kata": "زَبَّالُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 546,
+      "kata": "إِسْكَافِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 547,
+      "kata": "كَوَّاؤُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 548,
+      "kata": "عُمَدٌ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 549,
+      "kata": "صَحَافِيُّوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 550,
+      "kata": "بَوَّابُوْنَ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 551,
+      "kata": "حَكَمَةٌ",
+      "bentuk": "Isim",
+      "katagori": "mufrod",
+      "irob": " nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 552,
+      "kata": "قَرَأَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 553,
+      "kata": "مَدَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 554,
+      "kata": "رَزَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 555,
+      "kata": "أَنْزَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 556,
+      "kata": "أَنْذَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 557,
+      "kata": "زَادَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 558,
+      "kata": "رَبِحَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 559,
+      "kata": "أَضَاءَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 560,
+      "kata": "ذَهَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 561,
+      "kata": "تَرَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 562,
+      "kata": "أَظْلَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 563,
+      "kata": "شَاءَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 564,
+      "kata": "خَلَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 565,
+      "kata": "جَعَلَ ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 566,
+      "kata": "نَصَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 567,
+      "kata": "رَقَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Fi’il mudhor’i",
+      "irob": "ro'fa",
+      "tandairob": "Dhoma"
+    },
+    {
+      "id": 568,
+      "kata": "خَرَجَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 569,
+      "kata": "كَنَسَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 570,
+      "kata": "دَرَسَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 571,
+      "kata": "مَشَطَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 572,
+      "kata": "شَكَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 573,
+      "kata": "طَلَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 574,
+      "kata": "سَكَتَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 575,
+      "kata": "نَظَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 576,
+      "kata": "تَرَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 577,
+      "kata": "سَجَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 578,
+      "kata": "جَلَسَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 579,
+      "kata": "ضَرَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 580,
+      "kata": "رَجَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 581,
+      "kata": "غَسَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 582,
+      "kata": "نَزَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 583,
+      "kata": "صَبَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 584,
+      "kata": "قَفَزَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 585,
+      "kata": "فَتَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 586,
+      "kata": "ذَهَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 587,
+      "kata": "لَمَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 588,
+      "kata": "مَسَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 589,
+      "kata": "سَأَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 590,
+      "kata": "جَمَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 591,
+      "kata": "قَطَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 592,
+      "kata": "نَجَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 593,
+      "kata": "دَفَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 594,
+      "kata": "سَمِعَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 595,
+      "kata": "رَكِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 596,
+      "kata": "شَرِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 597,
+      "kata": "عَطِشَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 598,
+      "kata": "غَضِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },{
+      "id": 599,
+      "kata": "لَبِسَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+    {
+      "id": 600,
+      "kata": "حَفِظَ",
+      "bentuk": "Fi’il",
+      "katagori": "madhi",
+      "irob": "nashob",
+      "tandairob": "fatha"
+    },
+ 
+  {
+    "id": 601,
+    "kata": "لَعِبَ",
+    "bentuk": "Fi’il",
+    "katagori": "madhi",
+    "irob": "nashob",
+    "tandairob": "fatha"
+  },{
+    "id": 602,
+    "kata": "اِهْدِنَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 603,
+    "kata": "ءَامِ نُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 604,
+    "kata": "اعْبُدُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 605,
+    "kata": "فَأْتُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 606,
+    "kata": "وَادْعُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 607,
+    "kata": "فَاتَّقُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 608,
+    "kata": "فَاتَّقُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "-",
+    "tandairob": " -"
+  },
+  {
+    "id": 609,
+    "kata": "أَنْبِئْهُمْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 610,
+    "kata": "اسْجُدُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 611,
+    "kata": "اسْكُنْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 612,
+    "kata": "وَكُلَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 613,
+    "kata": "اهْبِطُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 614,
+    "kata": "اهْبِطُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 615,
+    "kata": "اذْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 616,
+    "kata": "اذْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 617,
+    "kata": "فَارْهَبُوْنِ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 618,
+    "kata": "وَءَامِنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 619,
+    "kata": "فَاتَّقُوْنِ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 620,
+    "kata": "وَأَقِيْمُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 621,
+    "kata": "وَءَاتُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 622,
+    "kata": "وَارْكَعُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 623,
+    "kata": "وَاسْتَعِيْنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 624,
+    "kata": "اذْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 625,
+    "kata": "وَاتَّقُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 626,
+    "kata": "فَتُوْبُوْا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 627,
+    "kata": "فَاقْتُلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 628,
+    "kata": "كُلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 629,
+    "kata": "ادْخُلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 630,
+    "kata": "فَكُلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 631,
+    "kata": "وَادْخُلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 632,
+    "kata": "وَقُوْلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 633,
+    "kata": "اضْرِبْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 634,
+    "kata": "كُلُوا وَاشْرَبُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 635,
+    "kata": "فَادْعُ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 636,
+    "kata": "اِهْبِطُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 637,
+    "kata": "خُذُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 638,
+    "kata": "وَاذْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 639,
+    "kata": "كُوْنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 640,
+    "kata": "ادْعُ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 641,
+    "kata": "فَافْعَلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 642,
+    "kata": "ادْعُ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 643,
+    "kata": "ادْعُ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 644,
+    "kata": "اضْرِبُوْهُ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 645,
+    "kata": "قُلْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 646,
+    "kata": "وَقُوْلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 647,
+    "kata": "وَأَقِيْمُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 648,
+    "kata": "وَءَاتُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 649,
+    "kata": "ءَامِنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 650,
+    "kata": "قُلْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 651,
+    "kata": "وَاسْمَعُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 652,
+    "kata": "قُلْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 653,
+    "kata": "فَتَمَنَّوُا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 654,
+    "kata": "رَاعِنَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 655,
+    "kata": "وَقُوْلُوْا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 656,
+    "kata": "انْظُرْنَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 657,
+    "kata": "وَاسْمَعُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 658,
+    "kata": "وَاسْمَعُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 659,
+    "kata": "وَاصْفَحُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 660,
+    "kata": "وَاصْفَحُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 661,
+    "kata": "وَءَاتُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 662,
+    "kata": "كُنْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 663,
+    "kata": "اذْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 664,
+    "kata": "وَاتَّقُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 665,
+    "kata": "وَاتَّخِذُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 666,
+    "kata": "طَهِّرَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 667,
+    "kata": "اجْعَلْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 668,
+    "kata": "وَارْزُقْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 669,
+    "kata": "تَقَبَّلْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 670,
+    "kata": "وَاجْعَلْنَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 671,
+    "kata": "وَأَرِنَا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 672,
+    "kata": "وَتُبْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 673,
+    "kata": "وَابْعَثْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 674,
+    "kata": "أَسْلِمْ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 675,
+    "kata": "كُوْنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 676,
+    "kata": "قُوْلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 677,
+    "kata": "فَوَلِّ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 678,
+    "kata": "فَاسْتَبِقُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 679,
+    "kata": "وَاخْشَوْنِي",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 680,
+    "kata": "فَاذْكُرُوْنِي",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 681,
+    "kata": "وَاشْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 682,
+    "kata": "اِسْتَعِيْنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 683,
+    "kata": "وَبَشِّرِ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 684,
+    "kata": "وَبَشِّرِ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 685,
+    "kata": "اتَّبِعُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 686,
+    "kata": "كُلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 687,
+    "kata": "وَاشْكُرُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 688,
+    "kata": "فَلْيَصُمْهُ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 689,
+    "kata": "فَلْيَسْتَجِيْبُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 690,
+    "kata": "وَلْيُؤْمِنُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 691,
+    "kata": "بَاشِرُوْهُنَّ",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },{
+    "id": 692,
+    "kata": "أَتِمُّوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 693,
+    "kata": "وَقَاتِلُوا",
+    "bentuk": "Fi’il",
+    "katagori": "Amer",
+    "irob": "nashob",
+    "tandairob": "membuang nun"
+  },
+  {
+    "id": 694,
+    "kata": "أَحَبَّ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "Jer",
+    "tandairob": "Fatha"
+  },{
+    "id": 695,
+    "kata": "اِحْتَاجَ ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "Jer",
+    "tandairob": "Fatha"
+  },
+  {
+    "id": 696,
+    "kata": "أَخَذَ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "-",
+    "tandairob": "-"
+  },
+  {
+    "id": 697,
+    "kata": "أَرَادَ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "-",
+    "tandairob": "-"
+  },{
+    "id": 698,
+    "kata": "اِسْتَمَعَ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "Jer",
+    "tandairob": "Fatha"
+  },
+  {
+    "id": 699,
+    "kata": "أَسْرَعَاِشْتَرَكَ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "Jer",
+    "tandairob": "Fatha"
+  },  {
+    "id": 700,
+    "kata": "اِشْتَرَى",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "Jer",
+    "tandairob": "Fatha"
+  },
+    {
+      "id": 701,
+      "kata": "أَقَامَ",
+    "bentuk": "Fi’il",
+    "katagori": "Madhi",
+    "irob": "Jer",
+    "tandairob": "Fatha"
+    },{
+      "id": 702,
+      "kata": "اِنْتَظَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 703,
+      "kata": "اِنْتَظَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 704,
+      "kata": "تَنَاوَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 705,
+      "kata": "تَوَضَّأَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 706,
+      "kata": "حَسَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 707,
+      "kata": "حَضَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 708,
+      "kata": "حَمَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 709,
+      "kata": "دَخَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 710,
+      "kata": "ذَهَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 711,
+      "kata": "رَتَّبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 712,
+      "kata": "رَجَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 713,
+      "kata": "رَسَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 714,
+      "kata": "زَارَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 715,
+      "kata": "سَأَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 716,
+      "kata": "سَاعَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 717,
+      "kata": "سَكَتَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 718,
+      "kata": "سَكَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 719,
+      "kata": "شَاهَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 720,
+      "kata": "شَدَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 721,
+      "kata": "صَلَّى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 722,
+      "kata": "ضَحِكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 723,
+      "kata": "طَلَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 724,
+      "kata": "عَامَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 725,
+      "kata": "عَرَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 726,
+      "kata": "عَمِلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 727,
+      "kata": "غَلَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 728,
+      "kata": "فَتَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 729,
+      "kata": "فَعَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 730,
+      "kata": "فَضَّلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 731,
+      "kata": "قَالَ لِـ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 732,
+      "kata": "قَامَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 733,
+      "kata": "قَرَأَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 734,
+      "kata": "كَتَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 735,
+      "kata": "كَسَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 736,
+      "kata": "كَنَسَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 737,
+      "kata": "لَبِسَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 738,
+      "kata": "لَعِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 739,
+      "kata": "مَشَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 740,
+      "kata": "نَجَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 741,
+      "kata": "نَظَرَ إِلَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 742,
+      "kata": "وَصَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 743,
+      "kata": "وَجَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 744,
+      "kata": "وَضَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 745,
+      "kata": "أَجَابَ عَنْ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 746,
+      "kata": "اِحْتَفَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 747,
+      "kata": "أَخْبَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 748,
+      "kata": "أَدْخَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 749,
+      "kata": "اِرْتَدَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 750,
+      "kata": "اِرْتَفَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 751,
+      "kata": "أَرْسَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 752,
+      "kata": "اِسْتَرَاحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 753,
+      "kata": "اِسْتَعَدَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 754,
+      "kata": "اِسْتَعْمَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 755,
+      "kata": "اِسْتَقْبَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 756,
+      "kata": "اِسْتَلَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 757,
+      "kata": "اِسْتَيْقَظَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 758,
+      "kata": "أَسَّسَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 759,
+      "kata": "أَشْبَهَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 760,
+      "kata": "اِعْتَذَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 761,
+      "kata": "أَعْطَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 762,
+      "kata": "اِغْتَسَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 763,
+      "kata": "أَغْلَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 764,
+      "kata": "أَكَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 765,
+      "kata": "أَمَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 766,
+      "kata": "اِنْتَشَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 767,
+      "kata": "اِنْتَهَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 768,
+      "kata": "اِنْزَلَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 769,
+      "kata": "اِنْطَلَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 770,
+      "kata": "أَوْقَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 771,
+      "kata": "بَاعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 772,
+      "kata": "بَدَأَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 773,
+      "kata": "بَقِيَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 774,
+      "kata": "بَكَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 775,
+      "kata": "تَأَخَّرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 776,
+      "kata": "تَحَدَّثَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 777,
+      "kata": "تَحَرَّكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 778,
+      "kata": "تَذَكَّرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 779,
+      "kata": "تَرَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 780,
+      "kata": "تَعِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 781,
+      "kata": "تَعَجَّبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 782,
+      "kata": "تَعَلَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 783,
+      "kata": "تَعَلَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 784,
+      "kata": "تَمَنَّى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 785,
+      "kata": "جَاءَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 786,
+      "kata": "جَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 787,
+      "kata": "جَلَسَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 788,
+      "kata": "حَانَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 789,
+      "kata": "حَجَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 790,
+      "kata": "حَجَزَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 791,
+      "kata": "حَزِنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 792,
+      "kata": "حَصَلَ ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 793,
+      "kata": "حَفِظَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 794,
+      "kata": "حَكَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 795,
+      "kata": "خَافَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 796,
+      "kata": "خَرَجَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 797,
+      "kata": "خَلَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 798,
+      "kata": "دَرَسَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 799,
+      "kata": "دَعَا",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 800,
+      "kata": "ذَبَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 801,
+      "kata": "رَاجَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 802,
+      "kata": "رَجَا",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 803,
+      "kata": "رَكِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 804,
+      "kata": "رَنَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 805,
+      "kata": "زَرَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 806,
+      "kata": "سَافَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 807,
+      "kata": "سَبَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 808,
+      "kata": "سَعَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 809,
+      "kata": "سَقَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 810,
+      "kata": "سَقَطَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 811,
+      "kata": "سَمِعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 812,
+      "kata": "شَرِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 813,
+      "kata": "شَعَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 814,
+      "kata": "شَكَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 815,
+      "kata": "صَامَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 816,
+      "kata": "صَبَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 817,
+      "kata": "صَدَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 818,
+      "kata": "طَافَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 819,
+      "kata": "ظَنَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 820,
+      "kata": "عَادَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 821,
+      "kata": "عَاشَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 822,
+      "kata": "غَابَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 823,
+      "kata": "غَسَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 824,
+      "kata": "فَحَصَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 825,
+      "kata": "فَضَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 826,
+      "kata": "فَكَّرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 827,
+      "kata": "فَهِمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 828,
+      "kata": "قَابَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 829,
+      "kata": "قَدَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 830,
+      "kata": "كَانَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 831,
+      "kata": "لَحِقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 832,
+      "kata": "مَاتَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 833,
+      "kata": "مَسَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 834,
+      "kata": "مَلَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 835,
+      "kata": "نَادَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 836,
+      "kata": "نَامَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 837,
+      "kata": "نَجَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 838,
+      "kata": "نَزَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 839,
+      "kata": "نَظَّفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 840,
+      "kata": "هَاجَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 841,
+      "kata": "هَبَطَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 842,
+      "kata": "وَجَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 843,
+      "kata": "وَدَّعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 844,
+      "kata": "آمَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 845,
+      "kata": "آمَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 846,
+      "kata": "اِتَّفَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 847,
+      "kata": "أَتَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 848,
+      "kata": "اِجْتَمَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 849,
+      "kata": "أَحَاطَ ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 850,
+      "kata": "اِحْتَلَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 851,
+      "kata": "أَحْسَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 852,
+      "kata": "أَخْبَأَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 853,
+      "kata": "اِخْتَارَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 854,
+      "kata": "اِخْتَلَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 855,
+      "kata": "أَخَذَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 856,
+      "kata": "اِدَّخَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 857,
+      "kata": "أَدَّى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 858,
+      "kata": "أَدْرَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 859,
+      "kata": "أَذَاعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 860,
+      "kata": "اِرْتَفَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 861,
+      "kata": "اِسْتَأْنَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 862,
+      "kata": "اِسْتَخْرَجَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 863,
+      "kata": "اِسْتَذْكَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 864,
+      "kata": "اِسْتَطَاعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 865,
+      "kata": "اِسْتَغْرَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 866,
+      "kata": "اِسْتَمَرَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 867,
+      "kata": "أَسْرَى بِـ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 868,
+      "kata": "أَسْلَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 869,
+      "kata": "اِشْتَهَرَ بِـ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 870,
+      "kata": "أَصْبَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 871,
+      "kata": "أَضَاءَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 872,
+      "kata": "أَطَاعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 873,
+      "kata": "أَعَانَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 874,
+      "kata": "اِعْتَقَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 875,
+      "kata": "أَعْجَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 876,
+      "kata": "أُعْجِبَ بِـ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 877,
+      "kata": "أَعْلَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 878,
+      "kata": "أَغْلَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 879,
+      "kata": "اِفْتَرَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 880,
+      "kata": "أَفْسَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 881,
+      "kata": "أَقَامَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 882,
+      "kata": "اِقْتَرَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 883,
+      "kata": "اِكْتَشَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 884,
+      "kata": "أَكْمَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 885,
+      "kata": "أَمْكَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 886,
+      "kata": "اِنْتَقَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 887,
+      "kata": "أَنْزَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 888,
+      "kata": "أَنْزَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 889,
+      "kata": "أَنْفَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 890,
+      "kata": "اِهْتَمَّ بِـ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 891,
+      "kata": "أَوْشَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 892,
+      "kata": "بَدَا",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 893,
+      "kata": "بَعُدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 894,
+      "kata": "بَلَغَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 895,
+      "kata": "بَنَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 896,
+      "kata": "تَبَادَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 897,
+      "kata": "تَبَاهَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 898,
+      "kata": "تَجَمَّعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 899,
+      "kata": "تَخَلَّصَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 900,
+      "kata": "تَقَدَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 901,
+      "kata": "تَقَدَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 902,
+      "kata": "تَمَكَّنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 903,
+      "kata": "تَوَجَّهَ ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 904,
+      "kata": "تَوَقَّفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 905,
+      "kata": "حَاوَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 906,
+      "kata": "حَفَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 907,
+      "kata": "حَفِظَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 908,
+      "kata": "حَقَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 909,
+      "kata": "خَجِلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 910,
+      "kata": "ذَكَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 911,
+      "kata": "رَفَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 912,
+      "kata": "سَارَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 913,
+      "kata": "سَبَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 914,
+      "kata": "سَجَّلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 915,
+      "kata": "سَمَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 916,
+      "kata": "سَمَّى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },{
+      "id": 917,
+      "kata": "شَارَكَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 918,
+      "kata": "شَحَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 919,
+      "kata": "شَهِدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 920,
+      "kata": "صَارَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 921,
+      "kata": "صَحِبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 922,
+      "kata": "صَحَّحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 923,
+      "kata": "صَفَّقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 924,
+      "kata": "ظَهَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 925,
+      "kata": "عَاقَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 926,
+      "kata": "عَالَجَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 927,
+      "kata": "عَبَّرَ عَنْ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 928,
+      "kata": "عَثَرَ عَلَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 929,
+      "kata": "عَلَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 930,
+      "kata": "فَاضَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 931,
+      "kata": "فَدَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 932,
+      "kata": "فَرَّقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 933,
+      "kata": "قَادَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 934,
+      "kata": "قَاطَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 935,
+      "kata": "قَامَ بِـ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 936,
+      "kata": "قَدَّرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 937,
+      "kata": "قَصَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 938,
+      "kata": "كَبَّرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 939,
+      "kata": "كَسَا",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 940,
+      "kata": "كَلَّفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 941,
+      "kata": "كَلَّمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 942,
+      "kata": "كَوَّنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 943,
+      "kata": "مَنَحَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 944,
+      "kata": "نَالَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 945,
+      "kata": "نَصَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 946,
+      "kata": "نَقَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 947,
+      "kata": "هَجَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 948,
+      "kata": "هَدَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 949,
+      "kata": "وَافَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 950,
+      "kata": "وَزَّعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 951,
+      "kata": "وَعَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 952,
+      "kata": "وَهَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 953,
+      "kata": "اِبْتَسَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 954,
+      "kata": "أَبْطَأَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 955,
+      "kata": "أَبْعَدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 956,
+      "kata": "اِتَّجَهَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 957,
+      "kata": "اِتَّصَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 958,
+      "kata": "أَتْقَنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 959,
+      "kata": "اِحْتَرَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 960,
+      "kata": "أَخْطَأَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 961,
+      "kata": "أَدْمَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 962,
+      "kata": "أَذَّنَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 963,
+      "kata": "أَزَالَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 964,
+      "kata": "اِسْتَحَقَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 965,
+      "kata": "اِسْتَعَادَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 966,
+      "kata": "أَسَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 967,
+      "kata": "اِسْوَدَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 968,
+      "kata": "اِشْتَدَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 969,
+      "kata": "أَصَابَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 970,
+      "kata": "اِضْطَرَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 971,
+      "kata": "اِضْطَرَبَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 972,
+      "kata": "اِطْمَأَنَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 973,
+      "kata": "أَظْهَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 974,
+      "kata": "أَعْتَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 975,
+      "kata": "اِقْتَرَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 976,
+      "kata": "اِلْتَحَقَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 977,
+      "kata": "اِلْتَفَتَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 978,
+      "kata": "اِلْتَقَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 979,
+      "kata": "اِلْتَهَمَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 980,
+      "kata": "أَلْقَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 981,
+      "kata": "اِمْتَازَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 982,
+      "kata": "اِنْتَبَهَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 983,
+      "kata": "اِنْتَصَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 984,
+      "kata": "أَنْصَفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 985,
+      "kata": "أَنْقَذَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 986,
+      "kata": "اِنْقَطَعَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 987,
+      "kata": "اِنْكَسَرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 988,
+      "kata": "بَرَزَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 989,
+      "kata": "تَأَثَّرَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 990,
+      "kata": "تَأَمَّلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 991,
+      "kata": "تَجَوَّلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 992,
+      "kata": "تَحَمَّلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 993,
+      "kata": "تَرَدَّدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 994,
+      "kata": "تَعَبَّدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 995,
+      "kata": "تَعَرَّضَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 996,
+      "kata": "تَعَرَّفَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 997,
+      "kata": "تَعَطَّلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },{
+      "id": 998,
+      "kata": "تَفَقَّدَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 999,
+      "kata": "تَلَا",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1000,
+      "kata": "تَمَّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1001,
+      "kata": "جَزَى",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "-",
+      "tandairob": "-"
+    },
+    {
+      "id": 1002,
+      "kata": "جَعَلَ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1003,
+      "kata": "جَمَعَ ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1004,
+      "kata": "مِنَ النَّاسِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1005,
+      "kata": "إِلىَ السُّوْقِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1006,
+      "kata": "عَنِ النَّبِيِّ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1007,
+      "kata": "عَلىَ المَكْتَبِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1008,
+      "kata": "فِي المَسْجِدِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1009,
+      "kata": "رُبَّ رَجُلٍ عَالِمٍ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1010,
+      "kata": "بِالقَلَمِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1011,
+      "kata": "كَالْقَمَرِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1012,
+      "kata": "لِلأُسْتَاذِ",
+      "bentuk": "Fi’il",
+      "katagori": "Madhi",
+      "irob": "Jer",
+      "tandairob": "Fatha"
+    },
+    {
+      "id": 1013,
+      "kata": "لَا تَغْضَبِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1014,
+      "kata": "لَا تَحْزَنِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1015,
+      "kata": "لَا تَأْكُلِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1016,
+      "kata": "لَا تَبْكِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1017,
+      "kata": "لَا تَخَافِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1018,
+      "kata": "لَا تَذْهَبِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1019,
+      "kata": "لَا تَرْجِعِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1020,
+      "kata": "لَا تَجْلِسِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1021,
+      "kata": "",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1022,
+      "kata": "لَا تَقُوْمِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1023,
+      "kata": "لَا تَيْأَسِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1024,
+      "kata": "لَا تَشْتَكِي",
+      "bentuk": "Fi’il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1025,
+      "kata": "لَا تَتَكَبَّرِي",
+      "bentuk": "fi'il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    },
+    {
+      "id": 1026,
+      "kata": "لَا تَنْسَيْنِي",
+      "bentuk": "fi'il",
+      "katagori": "nahi",
+      "irob": "mabni",
+      "tandairob": "sukun"
+    }
+  ]
+}
